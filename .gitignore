@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Do not upload local secrets
+backend/.env
+
+# Do not upload local secrets
+backend/.env
