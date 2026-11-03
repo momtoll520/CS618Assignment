@@ -1,0 +1,116 @@
+[
+  {
+    "_id": {
+      "$oid": "6ac8116935af8683330a0978"
+    },
+    "title": "Hello Mongoose!",
+    "author": "Wanjing Chen",
+    "contents": "This post is stored in a mongoDB database using Mongoose",
+    "tags": [
+      "mongoose",
+      "mongodb"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ac8149083cd16ed33134b71"
+    },
+    "title": "Hello again,Mongoose!",
+    "author": "Wanjing Chen",
+    "contents": "This post is stored in a mongoDB database using Mongoose",
+    "tags": [
+      "mongoose",
+      "mongodb"
+    ],
+    "createdAt": {
+      "$date": "2026-10-08T22:09:20.211Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-08T22:09:20.225Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6ad966db7f3a3153fdec0a50"
+    },
+    "title": "Hello Secod Post Mongoose!",
+    "author": "May Chen",
+    "contents": "This is my new mongoDB database using Mongoose",
+    "tags": [
+      "frontend"
+    ],
+    "createdAt": {
+      "$date": "2026-10-22T01:28:59.951Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-22T01:28:59.951Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6adbb79e6f9c6c9e87695018"
+    },
+    "title": "good",
+    "author": "mmm",
+    "contents": "good",
+    "tags": [],
+    "createdAt": {
+      "$date": "2026-10-23T19:38:06.233Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-23T19:38:06.233Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6adbfcfd3358d4c916fb1b3c"
+    },
+    "title": "happy",
+    "author": "may",
+    "contents": "happy day",
+    "tags": [],
+    "createdAt": {
+      "$date": "2026-10-24T00:34:05.579Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-24T00:34:05.579Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6adc251588396b0514af1114"
+    },
+    "title": "Sunday",
+    "author": "May",
+    "contents": "Today is Sunday.",
+    "tags": [],
+    "createdAt": {
+      "$date": "2026-10-24T03:25:09.132Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-24T03:25:09.132Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6adc279ff4beda1691c06e30"
+    },
+    "title": "New post",
+    "author": "May",
+    "contents": "My post",
+    "tags": [],
+    "createdAt": {
+      "$date": "2026-10-24T03:35:59.403Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-24T03:35:59.403Z"
+    },
+    "__v": 0
+  }
+]
