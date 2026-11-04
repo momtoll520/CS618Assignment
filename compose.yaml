@@ -17,7 +17,7 @@ services:
     build:
       context: .
       args:
-        VITE_BACKEND_URL: https://symmetrical-enigma-r767pgwp4xjr3wx4p-3001.app.github.dev/api/v1
+        VITE_BACKEND_URL: https://blog-backend-159267714683.us-east1.run.app/api/v1
     ports:
       - '3000:80'
     depends_on:
