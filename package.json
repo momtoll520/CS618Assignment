@@ -10,8 +10,8 @@
     "build:client": "vite build --outDir dist/client",
     "build:server": "vite build --outDir dist/server --ssr src/entry-server.jsx",
     "lint": "eslint src",
-    "preview": "vite preview",
-    "prepare": "husky install"
+    "preview": "vite preview"
+
   },
   "dependencies": {
     "@tanstack/react-query": "^5.12.2",
