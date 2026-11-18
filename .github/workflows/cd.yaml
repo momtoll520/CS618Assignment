@@ -18,7 +18,7 @@ jobs:
         id: auth
         uses: google-github-actions/auth@v1
         with:
-          service_account: ${{ secrets.GOOGLECLOUD_SERVICE_ACCOUNT }}
+          //service_account: ${{ secrets.GOOGLECLOUD_SERVICE_ACCOUNT }}
           credentials_json: ${{ secrets.GOOGLECLOUD_CREDENTIALS }}
           token_format: access_token
 
