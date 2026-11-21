@@ -15,7 +15,7 @@ export const AuthContextProvider=({ children })=> {
     )
 }
 AuthContextProvider.propTypes = {
-    children: PropTypes.element.isRequired,
+    children: PropTypes.node.isRequired,
 }
 export function useAuth(){
     const{ token ,setToken}= useContext(AuthContext);
